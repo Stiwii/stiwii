@@ -71,8 +71,8 @@
 
 ## 🏆 Achievements
 
-- 📜 Completed **[Front End Development with React](https://verified.sertifier.com/en/verify/67206352932183/)** from **[Academlo]**.
-- 📜 Completed **[Backend Develpment with Nodejs](https://verified.sertifier.com/en/verify/39160048774064/)** from **[Academlo]**.
+- 📜 Completed **[Front End Development with React](https://verified.sertifier.com/en/verify/67206352932183/)** from **[Academlo](https://www.academlo.com/)**.
+- 📜 Completed **[Backend Develpment with Nodejs](https://verified.sertifier.com/en/verify/39160048774064/)** from **[Academlo](https://www.academlo.com/)**.
 <!-- - 🏅 Participated in **[Hackathon/Competition Name]** and secured **[Position/Rank]**.
 - 🌟 Contributor to **[Open Source Project Name]**. -->
 
