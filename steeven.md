@@ -38,23 +38,23 @@
 ## 🌍 Connect with Me 
 
 <p align="center">
-  <a href="[https://linkedin.com/in/steeven-sanchez](https://www.linkedin.com/in/steeven-sanchez-693442238/)" target="_blank">
+  <a href="https://www.linkedin.com/in/steeven-sanchez-693442238/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/steeven_sanchez" target="_blank">
+<!--  <a href="https://twitter.com/steeven_sanchez" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:steeven.sanchez@example.com" target="_blank">
+  </a> -->
+  <a href="mailto:stiwers1997@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://steeven-portfolio.com" target="_blank">
+<!--  <a href="https://steeven-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=steevensanchez&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steevensanchez&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
@@ -82,9 +82,10 @@
 
 ## 🏆 Achievements
 
-- 📜 Completed **[Certification Name](https://example.com)** from **[Institution Name]**.
-- 🏅 Participated in **[Hackathon/Competition Name]** and secured **[Position/Rank]**.
-- 🌟 Contributor to **[Open Source Project Name]**.
+- 📜 Completed **[Front End Development with React](https://verified.sertifier.com/en/verify/67206352932183/)** from **[Academlo]**.
+- 📜 Completed **[Backend Develpment with Nodejs](https://verified.sertifier.com/en/verify/39160048774064/)** from **[Academlo]**.
+<!-- - 🏅 Participated in **[Hackathon/Competition Name]** and secured **[Position/Rank]**.
+- 🌟 Contributor to **[Open Source Project Name]**. 
 <!--
 
 
