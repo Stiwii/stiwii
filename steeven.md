@@ -67,25 +67,29 @@
 
 --- -->
 
-## 📂 Featured Projects
 
-- 🔗 **[Project 1 Name](https://github.com/steevensanchez/project1)**  
-  A brief description of your project, tech stack used, and its significance.
-
-- 🔗 **[Project 2 Name](https://github.com/steevensanchez/project2)**  
-  A brief description of your project, tech stack used, and its significance.
-
-- 🔗 **[Project 3 Name](https://github.com/steevensanchez/project3)**  
-  A brief description of your project, tech stack used, and its significance.
-
----
 
 ## 🏆 Achievements
 
 - 📜 Completed **[Front End Development with React](https://verified.sertifier.com/en/verify/67206352932183/)** from **[Academlo]**.
 - 📜 Completed **[Backend Develpment with Nodejs](https://verified.sertifier.com/en/verify/39160048774064/)** from **[Academlo]**.
 <!-- - 🏅 Participated in **[Hackathon/Competition Name]** and secured **[Position/Rank]**.
-- 🌟 Contributor to **[Open Source Project Name]**. 
+- 🌟 Contributor to **[Open Source Project Name]**. -->
+
+
+## 📂 Featured Projects
+
+- 🔗 **[Project 1 Name](https://github.com/steevensanchez/project1)**  
+  A brief description of your project, tech stack used, and its significance.
+
+<!-- - 🔗 **[Project 2 Name](https://github.com/steevensanchez/project2)**  
+  A brief description of your project, tech stack used, and its significance.
+
+- 🔗 **[Project 3 Name](https://github.com/steevensanchez/project3)**  
+  A brief description of your project, tech stack used, and its significance. -->
+
+---
+
 <!--
 
 
